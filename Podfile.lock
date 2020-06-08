@@ -1,0 +1,20 @@
+PODS:
+  - LBTAComponents (1.1)
+  - MBProgressHUD (1.2.0)
+
+DEPENDENCIES:
+  - LBTAComponents
+  - MBProgressHUD (~> 1.2.0)
+
+SPEC REPOS:
+  trunk:
+    - LBTAComponents
+    - MBProgressHUD
+
+SPEC CHECKSUMS:
+  LBTAComponents: 2e7719683ddcf1cdf7280700438c0c6a5f7da550
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+
+PODFILE CHECKSUM: 03e7772b53e860a2f74f922591931e1d71607d22
+
+COCOAPODS: 1.9.1
